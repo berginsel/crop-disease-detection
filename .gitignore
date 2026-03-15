@@ -1,0 +1,12 @@
+venv/
+dataset/
+data/
+ml/training/
+*.zip
+*.jpg
+*.png
+__pycache__/
+*.pyc
+logs/
+outputs/
+checkpoints/
